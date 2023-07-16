@@ -1,6 +1,6 @@
 # Multiclass Image Classification using CNN
 
-This repository contains a Python implementation of a Convolutional Neural Network (CNN) for multiclass image classification using the [CIFAR10](https://www.tensorflow.org/datasets/catalog/cifar10) dataset. 
+This project contains a Python implementation of a Convolutional Neural Network (CNN) for multiclass image classification using the [CIFAR10](https://www.tensorflow.org/datasets/catalog/cifar10) dataset. 
 
 The code allows you to accurately classify images into one of the ten predefined classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, or truck.
 
